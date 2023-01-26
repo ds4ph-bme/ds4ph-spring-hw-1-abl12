@@ -75,7 +75,7 @@ or like this
 [ ] Super flexible
 [ ] Kind of flexible
 [ ] Mildly pliable 
-[ ] Might as well be written in stone
+[x] Might as well be written in stone
 
 9. Create a notebook. Have it do the simple calculation 4 + 4 in a code chunk. Add one text chunk. Save that notebook as notebook1.ipynb, add it to this repository, commit the changes then push it to your github repo to submit.
 
