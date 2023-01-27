@@ -1,3 +1,4 @@
+# Abby Liu, aliu62@jhu.edu
 # Project 1
 Edit **this** file appropriately in your github classroom repository and follow the instructions from the questions. 
 
